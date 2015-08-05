@@ -1,8 +1,8 @@
 <html>
 <head>
-	<title>Prueba</title>
+	<title>Prueba 2</title>
 </head>
 <body>
-ésta es una página de prueba
+Ahora probaremos como subir una modificación al archivo index.php
 </body>
 </html>
